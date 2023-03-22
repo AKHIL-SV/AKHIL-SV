@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AKHIL SV</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-### Hi there 👋
+
 
 # 💫 About Me:
 🔭 Currently working on: Cross-platform-App (Flutter).<br>🌱 Getting better at: Application UI and coding pattern.<br>🤔 Exploring: Application design patterns and data security.<br>⚗️ Experimenting on: Improving the efficiency of my code.<br>💬 Ask me about: Anything tech related.<br>📫 How to reach me: Check social links below.
